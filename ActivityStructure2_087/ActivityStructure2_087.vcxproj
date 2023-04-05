@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{258d333e-5a3e-4e83-b8b9-c4b0a9e87103}</ProjectGuid>
-    <RootNamespace>ActivityStructure087</RootNamespace>
+    <ProjectGuid>{dfba3b70-68ec-4e2f-97aa-9cae96350531}</ProjectGuid>
+    <RootNamespace>ActivityStructure2087</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ActivityStructure_087.cpp" />
+    <ClCompile Include="ActivityStructure2_087.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
