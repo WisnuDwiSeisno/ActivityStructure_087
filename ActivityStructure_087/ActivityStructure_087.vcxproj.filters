@@ -18,5 +18,8 @@
     <ClCompile Include="ActivityStructure_087.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="latihan2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
