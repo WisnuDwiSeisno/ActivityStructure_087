@@ -29,6 +29,13 @@ int main() {
 	cout << "Alamat : ";
 	cout << "\n\tMasukan Desa : ";
 	cin.getline(mhs.alamat.desa, 20);
-	cout << "\n\tMasukan Kota : ";
+	cout << "\tMasukan Kota : ";
 	cin.getline(mhs.alamat.kota, 20);
+
+	cout << "\n\nNIM : " << mhs.nim;
+	cout << "\nUmur : " << mhs.umur;
+	cout << "\nNama : " << mhs.nama;
+	cout << "\nAlamat : ";
+	cout << "\n\tDesa : " << mhs.alamat.desa;
+	cout << "\n\tKota : " << mhs.alamat.kota;
 }
